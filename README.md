@@ -2,7 +2,7 @@
 
 ![Icone](./res/icone.png)
 
-Este é o repositório dedicado á armazenar o código desenvolvido para ser apresentado no [artigo](www.embarcados.com.br)
+Este é o repositório dedicado á armazenar o código desenvolvido para ser apresentado no [artigo](http://www.embarcados.com.br)
 
 ## Antes de Executar
 
